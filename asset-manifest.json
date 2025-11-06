@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/photoquest/static/css/main.3b71cc2a.css",
+    "main.js": "/photoquest/static/js/main.46b3115f.js",
+    "index.html": "/photoquest/index.html",
+    "main.3b71cc2a.css.map": "/photoquest/static/css/main.3b71cc2a.css.map",
+    "main.46b3115f.js.map": "/photoquest/static/js/main.46b3115f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b71cc2a.css",
+    "static/js/main.46b3115f.js"
+  ]
+}
